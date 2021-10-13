@@ -1,0 +1,4 @@
+<resources>
+    //nama aplikasi
+    <string name="app_name">Whatsapp</string>
+</resources>
